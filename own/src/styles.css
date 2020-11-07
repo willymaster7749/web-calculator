@@ -7,6 +7,7 @@
 }
 
 .calc-output {
+  overflow: hidden;
   height: 139px;
   position: relative;
 }
